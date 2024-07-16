@@ -8,7 +8,7 @@
 <h1 align="center"><b>PHÁT TRIỂN ỨNG DỤNG WEB</b></h>
 
 ## THÀNH VIÊN NHÓM
-|STT| MSSV      | Họ và Tên            |Chức Vụ    | 
+|STT|    MSSV   |       Họ và Tên      |  Chức Vụ  | 
 |---|:---------:| ---------------:     |----------:|
 | 1 | 21520681  | Kiều Hải Đăng        |Nhóm trưởng|
 | 2 | 20521918  | Nguyễn Công Thành    |Thành viên |
